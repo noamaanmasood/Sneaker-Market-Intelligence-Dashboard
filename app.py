@@ -14,7 +14,7 @@ st.set_page_config(
 # -----------------------------
 # LOAD DATA
 # -----------------------------
-df = pd.read_csv("StockX-Data-Contest-2019-3.csv")
+df = pd.read_csv("data/StockX-Data-Contest-2019-3.csv")
 
 # -----------------------------
 # TITLE
